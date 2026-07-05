@@ -609,7 +609,7 @@ namespace {
 
 } // namespace
 
-void vmpudxxlxlxlxlxlxl() // eski kodum hala calisir sig fix icin
+void vmpudxxlxlxlxlxlxl() // most likely will work its one of my old codes so...
 {
     unsigned long old_protect = 0;
     const auto ntdll = GetModuleHandleA(("ntdll.dll"));
